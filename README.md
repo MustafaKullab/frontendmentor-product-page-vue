@@ -4,6 +4,11 @@ This project is a solution to the **Frontend Mentor E-commerce Product Page Chal
 
 ---
 
+## 📸 Preview
+<img width="1892" height="913" alt="image" src="https://github.com/user-attachments/assets/e5cee158-ee29-42b3-a4c9-7662348be937" />
+
+---
+
 ## 🚀 Live Demo
 
 🔗 https://e-commerce-project-new-jet.vercel.app/#/
